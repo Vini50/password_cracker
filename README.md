@@ -6,7 +6,7 @@ O espaço de busca total do problema é de 62^8 (aproximadamente 218.3 trilhões
 
 ## 🧠 Paradigmas Implementados
 
-1. **Força Bruta (Exaustiva):** Atua como nossa linha de base (*baseline*), testando todas as combinações sequencialmente a partir de `aaaaaaaa`.
+1. **Força Bruta (Exaustiva):** Atua como nossa linha de base (*baseline*), testando todas as combinações sequencialmente a partir da senha em my_secret.txt.
 2. **Divisão e Conquista:** Reduz a complexidade massivamente quebrando a senha de 8 dígitos em dois subproblemas independentes de 4 dígitos.
 3. **Programação Dinâmica (Memoização):** Utiliza um dicionário de prefixos comuns (ex: "admin", "1234") e poda (*backtracking*) para evitar reprocessamento e ignorar ramos de busca inválidos.
 4. **Algoritmos Genéticos (Heurística):** Evolui uma população de strings aleatórias através de seleção, cruzamento e mutação, guiada por uma função de *Fitness* que avalia a quantidade de caracteres corretos na posição exata.

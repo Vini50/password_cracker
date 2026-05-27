@@ -1,5 +1,6 @@
 # 🔐 Password Cracker: Estudo de Paradigmas Algorítmicos
 
+Feito por Helian Vinicius Filinto da Silva
 Este projeto é uma simulação de *Pentesting* (testes de intrusão) focada na quebra de uma senha de 8 caracteres alfanuméricos. O objetivo central é demonstrar, na prática, as diferenças de desempenho e complexidade entre quatro paradigmas clássicos de projeto de algoritmos ao interagir com um sistema de validação (Oráculo).
 
 O espaço de busca total do problema é de 62^8 (aproximadamente 218.3 trilhões de combinações).

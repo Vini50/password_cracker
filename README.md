@@ -13,6 +13,7 @@ O espaço de busca total do problema é de 62^8 (aproximadamente 218.3 trilhões
 
 ## 📂 Estrutura do Projeto
 
+```text
 password_cracker/
 ├── src/
 │   ├── oracle.c / oracle.h     # Lógica do Oráculo e encapsulamento da senha secreta
@@ -25,7 +26,6 @@ password_cracker/
 ├── analysis.py                 # Script orquestrador em Python para gerar métricas e gráficos
 ├── Makefile                    # Automação da compilação em C
 └── main.c                      # Ponto de entrada (CLI)
-
 ## 🚀 Como Compilar e Executar
 
 ### Pré-requisitos

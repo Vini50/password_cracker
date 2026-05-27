@@ -26,7 +26,7 @@ password_cracker/
 ├── analysis.py                 # Script orquestrador em Python para gerar métricas e gráficos
 ├── Makefile                    # Automação da compilação em C
 └── main.c                      # Ponto de entrada (CLI)
-` ``` `
+```
 ## 🚀 Como Compilar e Executar
 
 ### Pré-requisitos
